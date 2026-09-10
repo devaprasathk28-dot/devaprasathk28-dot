@@ -1,123 +1,166 @@
-# 👋 Hi, I'm Devaprasath K
+<!-- ========================================================= -->
+<!--                 DEVAPRASATH K — PROFILE                   -->
+<!-- ========================================================= -->
 
-### `AI & Data Science` · `Python Developer` · `ML Practitioner` · `Tech Enthusiast`
+<!-- Animated Header -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:161b22,100:21262d&text=DEVAPRASATH%20K&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Artificial%20Intelligence%20%7C%20Data%20Science%20%7C%20Python%20%7C%20Machine%20Learning&descAlignY=60&descSize=17&animation=fadeIn"
+    width="100%"
+  />
+</p>
+
+<!-- Animated Introduction -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Student;Python+Developer;Machine+Learning+Enthusiast;Data+%26+Analytics+Explorer;Building+Practical+Intelligent+Systems;Learning+%E2%86%92+Building+%E2%86%92+Experimenting+%E2%86%92+Improving"
+  />
+</p>
+
+<p align="center">
+  <strong>Turning ideas, data and code into practical technology.</strong>
+</p>
+
+<br>
 
 <p align="center">
   <a href="mailto:devaprasathkanagaraj28@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/devaprasath-k-a5079332b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://leetcode.com/u/Devaprasath_28/">
-    <img src="https://img.shields.io/badge/LeetCode-Devaprasath_28-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
+  &nbsp;
   <a href="https://www.hackerrank.com/profile/devaprasathkana1">
-    <img src="https://img.shields.io/badge/HackerRank-Devaprasath-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DevaprasathK&label=Profile%20Views&color=0e75b6&style=flat-square" />
+  <a href="https://www.geeksforgeeks.org/profile/devaprasathkq83p">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/devaprasath28">
+    <img src="https://img.shields.io/badge/X-@devaprasath28-000000?style=flat-square&logo=x&logoColor=white" />
+  </a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DevaprasathK&label=Profile%20Views&style=flat-square" />
+</p>
+
+<br>
 
 ---
 
-## ⚡ Building at the Intersection of AI, Data & Software
+# 👨‍💻 About Me
 
-I'm a **B.Tech Artificial Intelligence & Data Science student** with a strong hands-on interest in **Python, Machine Learning, Artificial Intelligence, Data Science, analytics, and software development**.
+I'm **Devaprasath K**, a **B.Tech Artificial Intelligence & Data Science student** with a strong interest in **Artificial Intelligence, Machine Learning, Python development, Data Science, analytics and software engineering**.
 
-I enjoy turning ideas and raw data into **working technical systems**—from data analysis and machine-learning experiments to analytical dashboards and intelligent applications.
+I enjoy going beyond tutorials and experimenting with how technologies can be combined to create useful systems.
 
-My approach is simple:
+My technical journey revolves around:
 
 ```text
-Understand → Build → Experiment → Evaluate → Improve
+             ┌──────────────────────┐
+             │      PROBLEM         │
+             └──────────┬───────────┘
+                        │
+                        ▼
+             ┌──────────────────────┐
+             │       DATA           │
+             └──────────┬───────────┘
+                        │
+                        ▼
+             ┌──────────────────────┐
+             │   PYTHON / SQL       │
+             └──────────┬───────────┘
+                        │
+                        ▼
+             ┌──────────────────────┐
+             │      AI / ML         │
+             └──────────┬───────────┘
+                        │
+                        ▼
+             ┌──────────────────────┐
+             │ SOFTWARE / ANALYTICS │
+             └──────────┬───────────┘
+                        │
+                        ▼
+             ┌──────────────────────┐
+             │ PRACTICAL SOLUTION   │
+             └──────────────────────┘
 ```
 
-I'm not interested in learning technology only for the sake of knowing its syntax.
+I believe good technical work is not just about making something run.
 
-I want to understand **how it works, why it works, when it should be used, what its limitations are, and how it can be engineered into something useful.**
+It is about understanding the problem, making sensible technical decisions, testing the result, understanding limitations and continuously improving the solution.
 
 > **Learn deeply. Build practically. Measure honestly. Improve continuously.**
 
 ---
 
-# 🧠 My Technical Identity
+# 🧭 My Technical Direction
 
-<table>
+<p align="center">
+
+### `AI` &nbsp;•&nbsp; `ML` &nbsp;•&nbsp; `Python` &nbsp;•&nbsp; `Data` &nbsp;•&nbsp; `Analytics` &nbsp;•&nbsp; `Software`
+
+</p>
+
+<table align="center">
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-### 🤖 Artificial Intelligence
+### 🐍
+**Python**
 
-Exploring and building with:
-
-* Machine Learning
-* Deep Learning fundamentals
-* Natural Language Processing
-* Neural Networks
-* Generative AI concepts
-* AI-powered applications
-* Intelligent systems
-* ML experimentation
+Development  
+Automation  
+Data  
+ML
 
 </td>
 
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-### 📊 Data & Analytics
+### 🤖
+**AI / ML**
 
-Working across:
-
-* Data Analysis
-* Exploratory Data Analysis
-* Statistics & Probability
-* Feature Engineering
-* Data Visualization
-* Dataset Assessment
-* Model Evaluation
-* Analytical Dashboards
-* Financial Analytics
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 💻 Software Development
-
-Building with:
-
-* Python
-* C++
-* SQL
-* JavaScript
-* TypeScript
-* HTML
-* CSS
-* React
-* Streamlit
-* APIs
-* Git & GitHub
+Models  
+Experiments  
+NLP  
+Intelligent Systems
 
 </td>
 
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-### 🧪 Engineering & Experimentation
+### 📊
+**Data**
 
-Focused on:
+Analysis  
+Statistics  
+Visualization  
+Insights
 
-* Reproducible experiments
-* Model benchmarking
-* Evaluation metrics
-* Debugging
-* Problem decomposition
-* Code quality
-* Technical documentation
-* Iterative development
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️
+**Engineering**
+
+Software  
+APIs  
+Git  
+Applications
 
 </td>
 </tr>
@@ -127,129 +170,182 @@ Focused on:
 
 # 🛠️ Technology Stack
 
-### 💻 Languages
+## 🐍 Programming
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts" height="52" />
 </p>
 
-**Python · C++ · JavaScript · TypeScript · SQL**
+**Python · C++ · Java · JavaScript · TypeScript · SQL**
+
+> Python is my primary language for AI/ML, data analysis and technical development.
 
 ---
 
-### 🤖 AI / Machine Learning
+## 🤖 Artificial Intelligence & Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" height="52" />
 </p>
 
-**Machine Learning · Deep Learning · NLP · Neural Networks · Feature Engineering · Model Evaluation · ML Experimentation · Generative AI**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Machine Learning
+
+- Supervised Learning
+- Unsupervised Learning
+- Classification
+- Regression
+- Feature Engineering
+- Model Evaluation
+- Model Comparison
+- Experimentation
+- Benchmarking
+- ML Workflow Design
+
+</td>
+
+<td width="50%" valign="top">
+
+### Artificial Intelligence
+
+- AI Fundamentals
+- Neural Networks
+- Deep Learning Fundamentals
+- Natural Language Processing
+- Generative AI Concepts
+- Intelligent Applications
+- AI-assisted Development
+- LLM-based Workflows
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📊 Data Science
+# 📊 Data Science & Analytics
 
-<p>
-<img src="https://skillicons.dev/icons?i=numpy,pandas" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas" height="52" />
 </p>
 
-**NumPy · Pandas · Data Cleaning · EDA · Statistics · Data Visualization · Feature Analysis · Dataset Analysis**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Data Work
+
+**NumPy · Pandas**
+
+- Data Cleaning
+- Data Preparation
+- Exploratory Data Analysis
+- Feature Analysis
+- Dataset Analysis
+- Statistical Analysis
+- Data Transformation
+
+</td>
+
+<td width="50%" valign="top">
+
+### Analytics
+
+- Data Visualization
+- Statistical Interpretation
+- Analytical Dashboards
+- Power BI
+- Decision-support Analytics
+- Financial / Market Analytics
+- Data-driven Insights
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🌐 Development
+# 🌐 Software & Application Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" height="52" />
 </p>
 
-**HTML · CSS · JavaScript · TypeScript · React · Streamlit · API Integration · Application Development**
+### Frontend
+
+`HTML` · `CSS` · `JavaScript` · `TypeScript` · `React`
+
+### Application Development
+
+`Python Applications` · `Streamlit` · `API Integration` · `Web Applications`
+
+### Backend / Data Interaction
+
+`Python` · `SQL` · `MySQL` · `APIs`
 
 ---
 
-### 🗄️ Data & Databases
+# 🗄️ Databases & Data Systems
 
-**SQL · MySQL · Relational Databases · Data Pipelines · Analytical Data Processing**
-
----
-
-### 🔧 Development Environment
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" height="52" />
 </p>
 
-**Git · GitHub · VS Code · Jupyter · Python Development Environments**
+### Knowledge
+
+**SQL · MySQL · Relational Database Concepts · Data Querying · Data Processing**
+
+I'm particularly interested in how databases fit into larger **data and AI workflows**, rather than treating SQL as an isolated skill.
 
 ---
 
-# 🧰 Tools I Use
+# 📈 Business Intelligence & Visualization
 
-Rather than treating tools as isolated technologies, I use them as part of a development workflow.
+<p align="left">
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" />
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+
+</p>
+
+My analytics work focuses on moving from:
 
 ```text
-                    ┌───────────────────────┐
-                    │       PROBLEM         │
-                    └───────────┬───────────┘
-                                ↓
-                    ┌───────────────────────┐
-                    │       PYTHON          │
-                    └───────────┬───────────┘
-                                ↓
-             ┌──────────────────┴──────────────────┐
-             ↓                                     ↓
-      ┌───────────────┐                    ┌───────────────┐
-      │   DATA        │                    │   SOFTWARE    │
-      │ NumPy/Pandas  │                    │ React / APIs  │
-      │ SQL / MySQL   │                    │ Streamlit     │
-      └───────┬───────┘                    └───────┬───────┘
-              ↓                                    ↓
-      ┌───────────────┐                    ┌───────────────┐
-      │   ML / AI     │                    │ VISUALIZATION │
-      │ Experimentation│                   │ Power BI      │
-      │ Evaluation    │                    │ Dashboards    │
-      └───────┬───────┘                    └───────┬───────┘
-              └────────────────┬───────────────────┘
-                               ↓
-                    ┌───────────────────────┐
-                    │   PRACTICAL SYSTEM    │
-                    └───────────────────────┘
+RAW DATA
+   ↓
+CLEAN DATA
+   ↓
+EXPLORATION
+   ↓
+ANALYSIS
+   ↓
+VISUALIZATION
+   ↓
+INSIGHT
+   ↓
+DECISION SUPPORT
 ```
 
 ---
 
-# 🧠 AI-Assisted Development
+# 🧪 Machine Learning Experimentation
 
-Modern software development increasingly involves AI as a **development accelerator**, and I actively explore AI-assisted workflows for:
+One of my strongest areas of interest is **empirical machine learning**.
 
-* Understanding unfamiliar code
-* Debugging
-* Refactoring
-* Documentation
-* Architecture exploration
-* Research
-* Prototyping
-* Code generation
-* Technical brainstorming
-* Iterative development
-* Learning new frameworks and concepts
+I don't want to stop at:
 
-### AI tools / ecosystems I work with or explore
+> Train → Predict → Accuracy
 
-**ChatGPT · AI coding assistants · Generative AI · LLM-based development workflows · Prompt-driven development**
-
-The important distinction is that I treat AI as an **engineering tool**, not a replacement for understanding the underlying code or technical decisions.
-
----
-
-# 🔬 Machine Learning Mindset
-
-One area I'm particularly interested in is the **experimental side of machine learning**.
-
-Instead of simply training a model and reporting one score, I focus on understanding the complete process:
+Instead:
 
 ```text
 Dataset
+   ↓
+Dataset Understanding
    ↓
 Data Quality
    ↓
@@ -267,244 +363,507 @@ Benchmarking
    ↓
 Interpretation
    ↓
-Improvement
+Iteration
 ```
 
-This has led me to explore:
+### Areas I work with
 
-**Classification · Regression · Unsupervised Learning · Feature Engineering · Model Comparison · Evaluation Metrics · Experimentation · Benchmarking**
+`Classification`
 
-I believe ML systems should be evaluated with **evidence rather than assumptions**.
+`Regression`
 
----
+`Feature Engineering`
 
-# 📊 From Data → Insight
+`Model Evaluation`
 
-I enjoy working across the complete data lifecycle:
+`Benchmarking`
 
-### `Raw Data`
+`Experiment Design`
 
-↓
+`Performance Comparison`
 
-### `Clean`
+`Reproducible ML Workflows`
 
-↓
-
-### `Explore`
-
-↓
-
-### `Analyze`
-
-↓
-
-### `Visualize`
-
-↓
-
-### `Model`
-
-↓
-
-### `Evaluate`
-
-↓
-
-### `Communicate`
-
-This is where **Python, SQL, Machine Learning, visualization, and Power BI** come together.
+This experimental mindset is especially important to me because a model score without context does not necessarily tell the whole story.
 
 ---
 
-# 💹 Data + Finance + Intelligence
+# 💹 Financial Data & Intelligence
 
-I'm also interested in applying technology to **financial and market analytics**.
+I'm also interested in combining **software, analytics, data science and AI/ML with financial and market data**.
 
-My exploration in this area combines:
-
-**Python + Data Analysis + Financial Data + Analytics + Machine Learning + Visualization**
-
-with concepts such as:
-
-* Market analysis
-* Financial analytics
-* Portfolio analysis
-* Risk analysis
-* Performance analysis
-* Benchmark comparison
-* Decision-support dashboards
-* Financial intelligence systems
-
-The goal is not simply to display numbers, but to turn financial data into **structured information that supports analysis and decision-making**.
-
----
-
-# 🧪 Builder's Mindset
-
-I prefer building systems rather than stopping at isolated tutorials.
-
-My development cycle usually looks like:
+My exploration includes areas such as:
 
 ```text
-       ┌─────────────┐
-       │   IDEATE    │
-       └──────┬──────┘
-              ↓
-       ┌─────────────┐
-       │   RESEARCH  │
-       └──────┬──────┘
-              ↓
-       ┌─────────────┐
-       │   DESIGN    │
-       └──────┬──────┘
-              ↓
-       ┌─────────────┐
-       │    BUILD    │
-       └──────┬──────┘
-              ↓
-       ┌─────────────┐
-       │    TEST     │
-       └──────┬──────┘
-              ↓
-       ┌─────────────┐
-       │  EVALUATE   │
-       └──────┬──────┘
-              ↓
-       ┌─────────────┐
-       │   IMPROVE   │
-       └──────┬──────┘
-              │
-              └──────────────→ 🔁
+Market Data
+    ↓
+Financial Analysis
+    ↓
+Performance Metrics
+    ↓
+Risk Concepts
+    ↓
+Portfolio Analytics
+    ↓
+Benchmark Analysis
+    ↓
+Visualization
+    ↓
+Decision Support
 ```
+
+This area has strengthened my interest in building **data-driven financial intelligence systems** rather than simple static dashboards.
 
 ---
 
-# 🧩 Problem Solving
+# 🧠 AI-Assisted Development
 
-I continuously strengthen my programming fundamentals through problem solving.
+AI has become an important part of modern development workflows.
 
-### Core areas
+I use and explore AI tools as **development accelerators**, particularly for:
 
-`Data Structures` · `Algorithms` · `Logical Thinking` · `Computational Thinking` · `Debugging` · `Optimization`
+- Code exploration
+- Debugging
+- Refactoring
+- Documentation
+- Technical research
+- Architecture brainstorming
+- Prototyping
+- Learning unfamiliar technologies
+- Code generation
+- Problem decomposition
+- Iterative development
 
-Platforms:
+### AI tools / workflows
 
-<p>
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" />
+<p align="left">
+
+<img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Generative%20AI-LLM%20Workflows-555555?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/AI-Assisted%20Development-0A0A0A?style=for-the-badge" />
+
 </p>
 
-I care more about developing **better reasoning and problem-solving ability** than simply increasing the number of solved problems.
+I treat AI as a **tool for accelerating engineering**, not as a replacement for understanding the code, algorithms or technical decisions behind the result.
 
 ---
 
-# 📚 Knowledge Areas
+# 🔧 Development Tools
 
-My current knowledge base is broader than a single AI/ML stack.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" height="52" />
+</p>
 
-### Computer Science
+### Core Tools
 
-**Data Structures & Algorithms · Object-Oriented Programming · Operating Systems · Computer Networks · Database Systems · Software Development**
+`Git` · `GitHub` · `VS Code` · `Jupyter` · `Google Colab`
 
-### Mathematics & Data
+### Development Practices
 
-**Statistics · Probability · Data Analysis · Mathematical foundations for ML**
+`Version Control`
 
-### AI / ML
+`Debugging`
 
-**Machine Learning · Deep Learning fundamentals · NLP · Neural Networks · Model Evaluation · Feature Engineering · Generative AI concepts**
+`Documentation`
 
-### Engineering
+`Experimentation`
 
-**Python Development · APIs · Frontend Integration · Git/GitHub · Debugging · Documentation · Experimentation**
+`Iterative Development`
+
+`Code Organization`
 
 ---
 
-# 🚀 What I'm Building Toward
+# ☁️ Platforms & Environment
 
-My long-term direction is not simply:
+### Currently familiar with
 
-> **“Learn AI.”**
+- Python development environments
+- Jupyter / Notebook workflows
+- Google Colab
+- Git / GitHub
+- VS Code
+- SQL / MySQL
+- Basic Azure concepts
 
-It is:
+My focus is currently on strengthening **software engineering and production-oriented development practices** alongside AI/ML.
+
+---
+
+# 🧩 Knowledge Map
 
 ```text
-        PROGRAMMING
-             ↓
-       PROBLEM SOLVING
-             ↓
-     DATA + MATHEMATICS
-             ↓
-       MACHINE LEARNING
-             ↓
-      ARTIFICIAL INTELLIGENCE
-             ↓
-     SOFTWARE ENGINEERING
-             ↓
-     INTELLIGENT SYSTEMS
-             ↓
-       REAL-WORLD IMPACT
+                        DEVAPRASATH K
+                              │
+              ┌───────────────┼───────────────┐
+              │               │               │
+              ▼               ▼               ▼
+         PROGRAMMING        DATA             AI
+              │               │               │
+        ┌─────┼─────┐     ┌───┼────┐     ┌────┼────┐
+        │     │     │     │   │    │     │    │    │
+      Python C++  Java  SQL Pandas Stats  ML  NLP  GenAI
+        │     │           │   │      │     │    │
+        └─────┴───────────┴───┴──────┴─────┘    │
+                         │                      │
+                         ▼                      ▼
+                    APPLICATIONS          INTELLIGENT
+                    & ANALYTICS             SYSTEMS
+                         │                      │
+                         └──────────┬───────────┘
+                                    ▼
+                             REAL-WORLD VALUE
 ```
 
-I want to become capable of taking a problem from **idea → data → model → software → usable system**.
+---
+
+# 🏗️ How I Approach a Project
+
+I prefer building through an iterative engineering process.
+
+```text
+01  Understand
+        ↓
+02  Research
+        ↓
+03  Design
+        ↓
+04  Implement
+        ↓
+05  Test
+        ↓
+06  Experiment
+        ↓
+07  Evaluate
+        ↓
+08  Debug
+        ↓
+09  Improve
+        ↓
+10  Document
+        ↓
+       🔁
+```
+
+The objective isn't simply to finish a project.
+
+It is to understand **what was built, why it works, where it fails and how it can be improved**.
+
+---
+
+# 🚀 Areas I've Been Building Around
+
+My hands-on technical work has included exploration across:
+
+### 🧠 AI / ML
+
+- Machine Learning applications
+- AI-powered applications
+- NLP-oriented systems
+- AI-assisted workflows
+- ML experimentation and benchmarking
+
+### 📊 Data
+
+- Dataset analysis
+- Data quality assessment
+- Data visualization
+- Analytical systems
+- ML readiness analysis
+
+### 💻 Software
+
+- Python applications
+- Web interfaces
+- Streamlit applications
+- React-based interfaces
+- API-oriented systems
+- Database-backed applications
+
+### 💹 Analytics
+
+- Financial intelligence
+- Market analytics
+- Portfolio-oriented analysis
+- Decision-support dashboards
+- Power BI analytics
+
+---
+
+# 🏆 Certifications & Learning
+
+My technical development has also been supported through structured learning and certifications, including:
+
+<table>
+<tr>
+<td>
+
+🏅 **IBM Machine Learning with Python**
+
+</td>
+<td>
+
+🤖 **IBM SkillsBuild AI / Machine Learning**
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+🐧 **Red Hat Linux Fundamentals — RH104**
+
+</td>
+<td>
+
+🐍 **HackerRank Python Basic**
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+💻 **GeeksforGeeks Certification / Learning**
+
+</td>
+<td>
+
+📚 **Continuous Technical Learning**
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🧠 Problem Solving
+
+I continuously strengthen my programming fundamentals through problem-solving platforms and implementation.
+
+### Focus
+
+```text
+Problem Decomposition
+       ↓
+Logical Reasoning
+       ↓
+Data Structures
+       ↓
+Algorithms
+       ↓
+Implementation
+       ↓
+Debugging
+       ↓
+Optimization
+```
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+&nbsp;
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" />
+
+</p>
+
+My objective is not just to solve more problems.
+
+It is to become better at **thinking about problems**.
+
+---
+
+# 📚 Computer Science Foundations
+
+Alongside AI and data science, I'm building a stronger foundation in:
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Core CS
+
+- Data Structures
+- Algorithms
+- Object-Oriented Programming
+- Operating Systems
+- Computer Networks
+- Database Systems
+
+</td>
+
+<td width="50%" valign="top">
+
+### Supporting Knowledge
+
+- Mathematics
+- Statistics
+- Probability
+- Software Development
+- Debugging
+- Computational Thinking
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🌱 Currently Improving
+
+I'm continuously strengthening the fundamentals behind the technologies I use.
+
+### `Programming`
+
+Python · C++ · Java · SQL · Problem Solving
+
+### `AI / ML`
+
+Machine Learning · Deep Learning · NLP · Generative AI
+
+### `Data`
+
+Pandas · NumPy · Statistics · Visualization · Analytics
+
+### `Engineering`
+
+Software Design · APIs · Git · Databases · Application Development
+
+### `Professional`
+
+Technical Communication · Documentation · Research · Experimentation
 
 ---
 
 # 🎯 Career Direction
 
-I'm working toward opportunities in areas such as:
-
-**AI/ML Engineering · Python Development · Data Science · Machine Learning · AI Applications · Data Analytics · Intelligent Software Systems**
-
-I'm particularly interested in environments where I can combine:
-
-> **Programming + Data + AI + Engineering + Problem Solving**
-
----
-
-# 📈 Continuous Growth
-
-Technology changes quickly.
-
-So my goal isn't to collect technologies.
-
-It's to continuously improve the underlying capabilities that allow me to learn new technologies:
+I'm working toward becoming a strong **AI/ML and Software Professional** with the ability to move across:
 
 ```text
-Learn
-  ↓
-Understand
-  ↓
-Question
-  ↓
-Experiment
-  ↓
-Build
-  ↓
-Measure
-  ↓
-Improve
-  ↓
-Repeat
+PROBLEM
+   ↓
+PROGRAMMING
+   ↓
+DATA
+   ↓
+MACHINE LEARNING
+   ↓
+ARTIFICIAL INTELLIGENCE
+   ↓
+SOFTWARE ENGINEERING
+   ↓
+INTELLIGENT APPLICATION
+   ↓
+REAL-WORLD IMPACT
 ```
 
-### `Curiosity → Knowledge → Experimentation → Engineering`
+I'm particularly interested in opportunities involving:
+
+**AI/ML · Python Development · Data Science · Machine Learning · Data Analytics · AI Applications · Intelligent Software Systems**
 
 ---
 
-# 🌐 Connect With Me
+# 📊 GitHub Activity
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/devaprasath-k-a5079332b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Devaprasath%20K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/Devaprasath_28/">
-    <img src="https://img.shields.io/badge/LeetCode-Devaprasath__28-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="mailto:devaprasathkanagaraj28@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Devaprasath-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=DevaprasathK&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevaprasathK&layout=compact&hide_border=true&theme=github_dark"
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=DevaprasathK&theme=github-dark-blue&hide_border=true"
+  />
+</p>
+
+---
+
+# 🐍 Contribution Journey
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub contribution snake animation"
+  />
+</p>
+
+---
+
+# 🔭 What I'm Building Toward
+
+```text
+        CURIOUS
+           │
+           ▼
+        LEARNING
+           │
+           ▼
+       EXPERIMENTING
+           │
+           ▼
+         BUILDING
+           │
+           ▼
+        EVALUATING
+           │
+           ▼
+        IMPROVING
+           │
+           ▼
+       ENGINEERING
+           │
+           ▼
+    REAL-WORLD IMPACT
+```
+
+I want to become someone who can take a technical problem from:
+
+### `Idea → Data → Model → Software → Useful System`
+
+---
+
+# 🌐 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/devaprasath-k-a5079332b/">
+<img src="https://img.shields.io/badge/LinkedIn-Devaprasath%20K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:devaprasathkanagaraj28@gmail.com">
+<img src="https://img.shields.io/badge/Email-Devaprasath-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/Devaprasath_28/">
+<img src="https://img.shields.io/badge/LeetCode-Devaprasath__28-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://www.hackerrank.com/profile/devaprasathkana1">
+<img src="https://img.shields.io/badge/HackerRank-Devaprasath-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/devaprasathkq83p">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Devaprasath-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" />
+</a>
+
+<a href="https://x.com/devaprasath28">
+<img src="https://img.shields.io/badge/X-@devaprasath28-000000?style=flat-square&logo=x&logoColor=white" />
+</a>
+
 </p>
 
 ---
@@ -513,6 +872,16 @@ Repeat
 
 ### `BUILD • LEARN • EXPERIMENT • SOLVE • IMPROVE`
 
+<br>
+
 <i>Curious about technology. Serious about learning. Focused on building.</i>
 
+</p>
+
+<!-- Animated Footer -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:21262d,50:161b22,100:0d1117"
+    width="100%"
+  />
 </p>
