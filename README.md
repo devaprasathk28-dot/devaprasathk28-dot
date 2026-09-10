@@ -206,9 +206,12 @@ My long-term goal is to grow into a strong **AI/ML and software development prof
 
 ---
 
+
 ## 🤝 Let's Connect
 
-I'm always interested in **learning, collaborating, discussing technology, and exploring new opportunities** in AI, Machine Learning, Data Science, and Software Development.
+<p align="center">
+  <b>Always open to learning, collaboration, and new opportunities.</b>
+</p>
 
 <p align="center">
   <a href="mailto:devaprasathkanagaraj28@gmail.com">
@@ -218,14 +221,23 @@ I'm always interested in **learning, collaborating, discussing technology, and e
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/devaprasathk28-dot">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://x.com/devaprasath28">
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devaprasathk28-dot&amp;style=for-the-badge&amp;color=0E75B6&amp;label=PROFILE+VIEWS" alt="Profile Views" />
+  <i>Building knowledge today. Creating intelligent solutions tomorrow.</i>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F2027,50:203A43,100:2C5364&amp;height=120&amp;section=footer" alt="Footer" />
+  <img src="https://komarev.com/ghpvc/?username=devaprasathk28-dot&amp;style=flat-square&amp;color=0E75B6&amp;label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F2027,50:203A43,100:2C5364&amp;height=160&amp;section=footer&amp;text=Keep%20Learning%20%7C%20Keep%20Building&amp;fontSize=22&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=65" alt="Keep Learning Keep Building" />
 </p>
