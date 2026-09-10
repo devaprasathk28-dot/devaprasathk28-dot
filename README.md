@@ -71,13 +71,13 @@ My technical journey sits around four connected areas:
 
 <p align="center">
 
-`PROGRAMMING`  
-↓  
-`DATA`  
-↓  
-`AI / MACHINE LEARNING`  
-↓  
-`SOFTWARE & ANALYTICS`
+        `PROGRAMMING`  
+              ↓  
+            `DATA`  
+              ↓  
+    `AI / MACHINE LEARNING`  
+              ↓  
+     `SOFTWARE & ANALYTICS`
 
 </p>
 
